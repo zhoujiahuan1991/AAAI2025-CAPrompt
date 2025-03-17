@@ -69,11 +69,11 @@ This project is mainly based on [HiDe-Prompt](https://github.com/thu-ml/HiDe-Pro
 
 If you find this work helpful, please cite:
 ```
-@inproceedings{li2024fcs,
+@article{li2024caprompt,
   title={CAPrompt: Cyclic Prompt Aggregation for Pre-Trained Model Based Class Incremental Learning},
   author={Li, Qiwei and Zhou, Jiahuan},
-  booktitle={AAAI},
-  year={2025}
+  journal={arXiv preprint arXiv:2412.08929},
+  year={2024}
 }
 
 ```
