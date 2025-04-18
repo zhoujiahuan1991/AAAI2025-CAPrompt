@@ -13,6 +13,7 @@
 </div>
 <p align="center">
   <a href='https://arxiv.org/abs/2412.08929'><img src='https://img.shields.io/badge/Arxiv-2412.08929-A42C25.svg?logo=arXiv'></a>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FAAAI2025-CAPrompt&label=CAPromp&icon=github&color=%23e35d6a">
 </p>
 
 
